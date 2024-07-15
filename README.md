@@ -91,7 +91,5 @@ To install the dependencies, run:
 ```bash
 pip install -r requirements.txt
 
-Acknowledgements
-This project uses the Flask web framework.
-The pandas library is used for handling CSV data.
+
 
